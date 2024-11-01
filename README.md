@@ -1,5 +1,5 @@
 # About Me:
-I am currently a 3rd-year student at the Global Academy of Technology, specializing in Artificial Intelligence and Data Science, with a strong focus on data science and machine learning.<br> I’m passionate about learning cutting-edge technologies, tackling new challenges, and collaborating on innovative projects that push the boundaries of AI and data science.
+I am a 3rd-year student at Global Academy of Technology, specializing in Artificial Intelligence and Data Science, with a strong focus on machine learning and data science.<br> I’m passionate about exploring cutting-edge technologies, tackling new challenges, and collaborating on innovative projects that push the boundaries of AI and data science.
 
 
 # Tech Stack:
