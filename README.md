@@ -20,7 +20,7 @@ I am currently a 3rd-year student at the Global Academy of Technology, specializ
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2390A4C1.svg?style=plastic&logo=Matplotlib&logoColor=black)  
 
 **Data Visualization Tools:**  
-![Power BI](https://img.shields.io/badge/power_bi-%23C0A878.svg?style=plastic&logo=powerbi&logoColor=black) 
+![Power BI](https://img.shields.io/badge/power_bi-%234B8BBE.svg?style=plastic&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-%23488BA1.svg?style=plastic&logo=tableau&logoColor=white)
 
 
